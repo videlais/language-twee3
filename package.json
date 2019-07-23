@@ -1,0 +1,17 @@
+{
+  "name": "language-twee3",
+  "version": "1.0.0",
+  "description": "Twee 3 language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/videlais/language-twee3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/videlais/language-twee3/issues"
+  },
+  "license": "MIT"
+}
